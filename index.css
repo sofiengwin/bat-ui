@@ -1,0 +1,14 @@
+.center {
+  display: flex;
+  width: 50%;
+  background: black;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.group-item {
+  width: 100%;
+}
