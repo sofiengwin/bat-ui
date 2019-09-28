@@ -1,0 +1,16 @@
+.img-nav{
+    margin-top: 7px;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.fluid-container:nth-child(1){
+    padding: 0 10%;
+    box-shadow: 0 3px 15px #999;
+}
+
+.nav-link{
+    font-weight: bolder;
+}
